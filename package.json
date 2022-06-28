@@ -1,6 +1,6 @@
 {
-  "name": "node-jasper",
-  "version": "0.2.5",
+  "name": "jasper",
+  "version": "1.0.0",
   "description": "JasperReports within Node.js",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/agmoyano/node-jasper.git"
+    "url": "https://github.com/Abdelkarim-b/jasperReporting-node.git"
   },
   "keywords": [
     "jasper",
@@ -16,20 +16,20 @@
     "pdf"
   ],
   "author": {
-    "name": "Agustin Moyano"
+    "name": "abdelkarim"
   },
   "contributors": [
     {
-      "name": "Gonzalo Gaspar Viñas",
-      "email": "gonzalo.vinas@gmail.com",
+      "name": "abdelkarim",
+      "email": "abdelkarimbenchelef.1361@gmail.com",
       "url": ""
     }
   ],
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/agmoyano/node-jasper/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/agmoyano/node-jasper",
+  "homepage": "https://github.com/Abdelkarim-b/jasperReporting-node",
   "dependencies": {
     "async": "^0.9.0",
     "extend": "^1.3.0",
