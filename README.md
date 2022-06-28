@@ -7,13 +7,13 @@ JasperReports within Node.js
 Install via npm:
 
 ```
-npm install --save node-jasper
+npm i jasper-for-node
 ```
 
 To use it inside your project just do:
 
 ```
-var jasper = require('node-jasper')(options);
+var jasper = require('jasper-for-node')(options);
 ```
 
 Where _options_ is an object with the following signature:
